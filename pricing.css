@@ -96,6 +96,7 @@ font-weight: 700;
     max-width: 320px;
    justify-content: center;
    flex-wrap: wrap;
+   align-items: center;
    
 }
 
@@ -109,9 +110,9 @@ font-weight: 700;
 .card{
     background: #1e293b;
     border-radius: 20px;
-    margin: 20px 10px 10px 10px;
-    padding-right: 30px;
-    padding-left: 40px;
+    margin: 20px 10px 15px 15px;
+    padding-right: 20px;
+    padding-left: 30px;
     padding-bottom: 10px;
     padding-top: 10px;
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.25);
@@ -282,6 +283,7 @@ li{
     line-height: 1.4;
 
 }
+
 
 
 
