@@ -115,6 +115,8 @@ font-weight: 700;
     padding-bottom: 10px;
     padding-top: 10px;
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.25);
+    max-width: 320px;
+    flex: 1 1 280px;
    
 }
 
@@ -279,4 +281,5 @@ li{
     line-height: 1.4;
 
 }
+
 
